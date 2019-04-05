@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "name": "Leonardo",
+      "image": "https://vignette.wikia.nocookie.net/tmnt/images/6/62/Retro_leo.jpg/revision/latest?cb=20131019131259"
+    },
+    {
+      "id": 2,
+      "name": "Duke",
+      "image": "https://vignette.wikia.nocookie.net/gijoe/images/1/1f/RAH_Duke02.jpg/revision/latest?cb=20080727115204"
+    },
+    {
+      "id": 3,
+      "name": "Optimus Prime",
+      "image": "https://vignette.wikia.nocookie.net/tfumux/images/5/57/Optimus_Prime.jpg/revision/latest?cb=20090204005209"
+    },
+    {
+      "id": 4,
+      "name": "Voltron",
+      "image": "https://vignette.wikia.nocookie.net/voltron/images/0/08/Voltron345.jpg/revision/latest?cb=20090925230857"
+    },
+    {
+      "id": 5,
+      "name": "Quicksilver",
+      "image": "https://vignette.wikia.nocookie.net/silverhawks/images/8/8a/Quicksilverbio.png/revision/latest?cb=20110201112521"
+    },
+    {
+      "id": 6,
+      "name": "Bulletproof",
+      "image": "https://vignette.wikia.nocookie.net/cops/images/4/40/Bulletproof.JPG/revision/latest?cb=20081215025435"
+    },
+    {
+      "id": 7,
+      "name": "He-Man",
+      "image": "https://vignette.wikia.nocookie.net/heman/images/c/c3/Heman83.jpg/revision/latest?cb=20090716165926"
+    },
+    {
+      "id": 8,
+      "name": "Lion-O",
+      "image": "https://vignette.wikia.nocookie.net/thundercats/images/7/7e/619px-Vlcsnap-2014-03-12-21h52m32s82.jpg/revision/latest?cb=20140322204508"
+    },
+    {
+      "id": 9,
+      "name": "Matt Tracker",
+      "image": "https://vignette.wikia.nocookie.net/mask/images/0/07/Matt_Trakker.jpg/revision/latest?cb=20180219032420"
+    },
+    {
+      "id": 10,
+      "name": "Scrooge McDuck",
+      "image": "https://vignette.wikia.nocookie.net/scroogemcduck/images/f/f1/Scrooge_McDuck.jpg/revision/latest?cb=20130827234151"
+    },
+    {
+      "id": 11,
+      "name": "Peter Venkman",
+      "image": "https://vignette.wikia.nocookie.net/ghostbusters/images/8/83/PeterVenkmanAnimated05.jpg/revision/latest?cb=20140424101850"
+    },
+    {
+      "id": 12,
+      "name": "Leoric",
+      "image": "https://vignette.wikia.nocookie.net/visionaries/images/1/1b/Leoric.png/revision/latest?cb=20180116001242"
+    }
+  ]
+  
