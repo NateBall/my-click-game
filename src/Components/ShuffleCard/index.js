@@ -5,11 +5,9 @@ function ShuffleCard(props) {
   return (
     <div className="image">
       
-          <div className="img-container">
-            <img alt={props.name} src={props.image} onClick={props.handleClick} />
+          <div className="img-container" data-clicked={props.clicked}>
+            <img id={props.id} alt={props.name} src={props.image} onClick={props.handleClick} />
           </div> 
-          {/* <div className="images" onClick={props.handleClick} >   */}
-      {/* </div> */}
     </div>
   );
 };
@@ -17,4 +15,3 @@ function ShuffleCard(props) {
 export default ShuffleCard;
 
 
-{/* <img onClick={this.props.handleClick} src="url" className="" alt="" /> */}
